@@ -6,7 +6,7 @@
 }
 
 body{
-    background-image: url(img/back.jpg);
+    background-image: url(earth.jpg);
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -117,4 +117,5 @@ h1{
 }
 .icons ul li i:hover{
     color: aqua;
+
 }
